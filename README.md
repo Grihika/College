@@ -1,1 +1,1 @@
-# College
+# College Compass
